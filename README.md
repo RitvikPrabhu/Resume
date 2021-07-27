@@ -1,2 +1,2 @@
 # Resume
-Resume of Ritvik Prabhu
+This repository contains my resume made entirely on Latex
